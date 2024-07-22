@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    height: 700px;
+    width: 560px;
+    background-color: rgb(158, 8, 31);
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding-top: 25px;
+}
